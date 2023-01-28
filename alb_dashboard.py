@@ -30,7 +30,7 @@ dashboard_properties = {
                 ],
                 'period': 300,
                 'stat': 'Sum',
-                'region': 'us-west-2',
+                'region': region_name,
                 'title': 'ALB Request Count'
             }
         },
@@ -46,7 +46,7 @@ dashboard_properties = {
                 ],
                 'period': 300,
                 'stat': 'Sum',
-                'region': 'us-west-2',
+                'region': region_name,
                 'title': 'ALB 2XX Responses'
             }
         },
@@ -62,7 +62,7 @@ dashboard_properties = {
                 ],
                 'period': 300,
                 'stat': 'Sum',
-                'region': 'us-west-2',
+                'region': region_name,
                 'title': 'ALB 3XX Responses'
             }
         },
@@ -78,7 +78,7 @@ dashboard_properties = {
                 ],
                 'period': 300,
                 'stat': 'Sum',
-                'region': 'us-west-2',
+                'region': region_name,
                 'title': 'ALB 4XX Responses'
             }
         },
@@ -94,7 +94,7 @@ dashboard_properties = {
                 ],
                 'period': 300,
                 'stat': 'Sum',
-                'region': 'us-west-2',
+                'region': region_name,
                 'title': 'ALB 5XX Responses'
             }
         },
@@ -110,7 +110,7 @@ dashboard_properties = {
                 ],
                 'period': 300,
                 'stat': 'Average',
-                'region': 'us-west-2',
+                'region': region_name,
                 'title': 'ALB Target Response Time'
             }
         }
