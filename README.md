@@ -1,4 +1,4 @@
-# aws-infrastructure-creation
+# aws-cloudwatch-dashboards-creation
 
 This script creates a CloudWatch dashboards for monitoring various metrics of AWS services.
 
